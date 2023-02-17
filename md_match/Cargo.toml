@@ -12,4 +12,4 @@ A macro to support md-match syntax.
 """
 
 [dependencies]
-md_match_derive = { path = "../md_match_derive" }
+md_match_derive = { path = "../md_match_derive", version = "0.1.0" }
