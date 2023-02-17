@@ -1,0 +1,15 @@
+[package]
+name = "md_match"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mu00 <mu001999@outlook.com>"]
+readme = "README.md"
+license = "MIT"
+keywords = ["macro", "mdmatch", "md-match"]
+repository = "https://github.com/Mu001999/md-match"
+description = """
+A macro to support md-match syntax.
+"""
+
+[dependencies]
+md_match_derive = { path = "../md_match_derive" }
