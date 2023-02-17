@@ -1,3 +1,7 @@
+//! # MdMatch
+//! This crate provides the derive macro for md-match.
+//! Please refer to https://github.com/Mu001999/md-match for how to set this up.
+
 use proc_macro::TokenStream;
 use proc_macro2::Span;
 

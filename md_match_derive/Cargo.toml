@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Mu00 <mu001999@outlook.com>"]
 license = "MIT"
+repository = "https://github.com/Mu001999/md-match"
+description = """
+This crate provides the derive macro for md-match.
+"""
 
 [lib]
 proc-macro = true
